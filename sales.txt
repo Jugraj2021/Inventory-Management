@@ -1,0 +1,8 @@
+Jugraj Singh Pelia,932847409324,jsp@email.com,Chocolate,1,10000,100000,Wed May 31 15:42:07 2023
+Yuvraj Singh Pelia,435323354,ysp@gmail.com,Cake,3,3245,1947000,Wed May 31 15:42:31 2023
+Jugraj Singh Pelia,4389425,jsp@gmail.com,Cake,3,3000,1800000,Wed May 31 16:55:18 2023
+Jugraj Singh Pelia,43893-52,jsp@gmail.com,Cake,3,743820143,446292085800,Wed May 31 16:56:34 2023
+Jugraj Singh Pelia,37489745564,jsp@gmail.com,Milk Shake,2,325,9750,Wed May 31 17:30:53 2023
+Digraj Singh Pelia,474545654,dsp@gmail.com,Cake,3,99,59400,Wed May 31 17:40:35 2023
+Yuvraj Singh Pelia,753489534,ysp@gmail.com,Milk Shake,2,4345,130350,Wed May 31 18:42:38 2023
+Jugraj Singh Pelia,78435634452,jsp@gmail.com,Milk Shake,2,38734,1162020,Wed May 31 18:48:39 2023
